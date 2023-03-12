@@ -1,5 +1,5 @@
 body {
-  background-color: #E4F9F5;
+  background-color: #68BBE3;
   margin: 0;
   text-align: center;
   position: relative;
@@ -10,14 +10,14 @@ h1 {
   font-size: 7rem;
   margin: 0px auto 0 auto;
   margin-bottom: 0px;
-  color: #66BFBF;
+  color: #003060;
   font-family: 'Sacramento', cursive;
 }
 
 hr {
   border-style: none;
   border-top-style: dotted;
-  border-color: grey;
+  border-color: #003060;
   border-width: 5px;
   width: 50%;
 }
@@ -52,13 +52,13 @@ hr {
 .Message {
   width: 300px;
   height: 200px;
-  background-color: #E4F9F5;
+  background-color: #59D7EE;
 }
 
 .Name {
-  background-color: #E4F9F5;
+  background-color: #59D7EE;
 }
 
 .Gmail {
-  background-color: #E4F9F5;
+  background-color: #59D7EE;
 }
